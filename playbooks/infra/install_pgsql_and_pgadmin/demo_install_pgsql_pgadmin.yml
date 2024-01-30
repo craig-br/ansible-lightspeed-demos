@@ -19,10 +19,8 @@
         max_size: 10
 
   tasks:
-    #- name: Install postgresql server package
-
+    # - name: Install postgresql server package
 
     # Do initial postgresql config & start the service & allow the traffic through the firewall
-
 
     #- name: Create podman container using pgadmin_container var
